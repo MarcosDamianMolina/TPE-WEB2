@@ -3,4 +3,4 @@
   -Juan Jose Vandale / juanjoc2468@gmail.com
 
 # Tematica: Tienda de ropa deportiva
-  -En nuestro sitio web proponemos brindar al dueño de un local un mejor seguimiento de sus productos de cada categoría(camisetas, botines, shorts, etc)
+  -En nuestro sitio web proponemos brindar al cliente informacion sobre los productos que hay en nuestra tienda, pudiendo elegir entre distintos deportes segun sus gustos (fultbol, tenis y basquet).
